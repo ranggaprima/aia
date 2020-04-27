@@ -1,0 +1,8 @@
+Step After extracting
+
+1. Go inside the extracting root folder
+2. Open terminal or console -> npm install
+3. Go inside frontend folder
+4. Open terminal or console -> npm install
+5. Back to root folder
+6. Open terminal or console -> npm run start
