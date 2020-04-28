@@ -27,7 +27,7 @@ export function getImageError(bool) {
 }
 
 export function getImage(url) {
-  const api_path = `http://localhost:5000/api/getImage`
+  const api_path = `/api/getImage`
 
   return (dispatch) => {
     dispatch(getImageLoading(true));
